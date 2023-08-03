@@ -1,0 +1,15 @@
+/Users/elenazuravleva/Desktop/C#/HomeWork4/obj/Debug/net6.0/HomeWork4.csproj.AssemblyReference.cache
+/Users/elenazuravleva/Desktop/C#/HomeWork4/obj/Debug/net6.0/HomeWork4.GeneratedMSBuildEditorConfig.editorconfig
+/Users/elenazuravleva/Desktop/C#/HomeWork4/obj/Debug/net6.0/HomeWork4.AssemblyInfoInputs.cache
+/Users/elenazuravleva/Desktop/C#/HomeWork4/obj/Debug/net6.0/HomeWork4.AssemblyInfo.cs
+/Users/elenazuravleva/Desktop/C#/HomeWork4/obj/Debug/net6.0/HomeWork4.csproj.CoreCompileInputs.cache
+/Users/elenazuravleva/Desktop/C#/HomeWork4/bin/Debug/net6.0/HomeWork4
+/Users/elenazuravleva/Desktop/C#/HomeWork4/bin/Debug/net6.0/HomeWork4.deps.json
+/Users/elenazuravleva/Desktop/C#/HomeWork4/bin/Debug/net6.0/HomeWork4.runtimeconfig.json
+/Users/elenazuravleva/Desktop/C#/HomeWork4/bin/Debug/net6.0/HomeWork4.dll
+/Users/elenazuravleva/Desktop/C#/HomeWork4/bin/Debug/net6.0/HomeWork4.pdb
+/Users/elenazuravleva/Desktop/C#/HomeWork4/obj/Debug/net6.0/HomeWork4.dll
+/Users/elenazuravleva/Desktop/C#/HomeWork4/obj/Debug/net6.0/refint/HomeWork4.dll
+/Users/elenazuravleva/Desktop/C#/HomeWork4/obj/Debug/net6.0/HomeWork4.pdb
+/Users/elenazuravleva/Desktop/C#/HomeWork4/obj/Debug/net6.0/HomeWork4.genruntimeconfig.cache
+/Users/elenazuravleva/Desktop/C#/HomeWork4/obj/Debug/net6.0/ref/HomeWork4.dll
