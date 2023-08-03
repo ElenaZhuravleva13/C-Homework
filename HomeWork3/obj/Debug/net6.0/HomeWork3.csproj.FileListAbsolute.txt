@@ -1,0 +1,15 @@
+/Users/elenazuravleva/Desktop/C#/HomeWork3/bin/Debug/net6.0/HomeWork3
+/Users/elenazuravleva/Desktop/C#/HomeWork3/bin/Debug/net6.0/HomeWork3.deps.json
+/Users/elenazuravleva/Desktop/C#/HomeWork3/bin/Debug/net6.0/HomeWork3.runtimeconfig.json
+/Users/elenazuravleva/Desktop/C#/HomeWork3/bin/Debug/net6.0/HomeWork3.dll
+/Users/elenazuravleva/Desktop/C#/HomeWork3/bin/Debug/net6.0/HomeWork3.pdb
+/Users/elenazuravleva/Desktop/C#/HomeWork3/obj/Debug/net6.0/HomeWork3.csproj.AssemblyReference.cache
+/Users/elenazuravleva/Desktop/C#/HomeWork3/obj/Debug/net6.0/HomeWork3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/elenazuravleva/Desktop/C#/HomeWork3/obj/Debug/net6.0/HomeWork3.AssemblyInfoInputs.cache
+/Users/elenazuravleva/Desktop/C#/HomeWork3/obj/Debug/net6.0/HomeWork3.AssemblyInfo.cs
+/Users/elenazuravleva/Desktop/C#/HomeWork3/obj/Debug/net6.0/HomeWork3.csproj.CoreCompileInputs.cache
+/Users/elenazuravleva/Desktop/C#/HomeWork3/obj/Debug/net6.0/HomeWork3.dll
+/Users/elenazuravleva/Desktop/C#/HomeWork3/obj/Debug/net6.0/refint/HomeWork3.dll
+/Users/elenazuravleva/Desktop/C#/HomeWork3/obj/Debug/net6.0/HomeWork3.pdb
+/Users/elenazuravleva/Desktop/C#/HomeWork3/obj/Debug/net6.0/HomeWork3.genruntimeconfig.cache
+/Users/elenazuravleva/Desktop/C#/HomeWork3/obj/Debug/net6.0/ref/HomeWork3.dll
