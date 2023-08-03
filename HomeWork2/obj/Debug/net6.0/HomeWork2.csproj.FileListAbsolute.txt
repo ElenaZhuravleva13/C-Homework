@@ -1,0 +1,15 @@
+/Users/elenazuravleva/Desktop/C#/HomeWork2/bin/Debug/net6.0/HomeWork2
+/Users/elenazuravleva/Desktop/C#/HomeWork2/bin/Debug/net6.0/HomeWork2.deps.json
+/Users/elenazuravleva/Desktop/C#/HomeWork2/bin/Debug/net6.0/HomeWork2.runtimeconfig.json
+/Users/elenazuravleva/Desktop/C#/HomeWork2/bin/Debug/net6.0/HomeWork2.dll
+/Users/elenazuravleva/Desktop/C#/HomeWork2/bin/Debug/net6.0/HomeWork2.pdb
+/Users/elenazuravleva/Desktop/C#/HomeWork2/obj/Debug/net6.0/HomeWork2.csproj.AssemblyReference.cache
+/Users/elenazuravleva/Desktop/C#/HomeWork2/obj/Debug/net6.0/HomeWork2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/elenazuravleva/Desktop/C#/HomeWork2/obj/Debug/net6.0/HomeWork2.AssemblyInfoInputs.cache
+/Users/elenazuravleva/Desktop/C#/HomeWork2/obj/Debug/net6.0/HomeWork2.AssemblyInfo.cs
+/Users/elenazuravleva/Desktop/C#/HomeWork2/obj/Debug/net6.0/HomeWork2.csproj.CoreCompileInputs.cache
+/Users/elenazuravleva/Desktop/C#/HomeWork2/obj/Debug/net6.0/HomeWork2.dll
+/Users/elenazuravleva/Desktop/C#/HomeWork2/obj/Debug/net6.0/refint/HomeWork2.dll
+/Users/elenazuravleva/Desktop/C#/HomeWork2/obj/Debug/net6.0/HomeWork2.pdb
+/Users/elenazuravleva/Desktop/C#/HomeWork2/obj/Debug/net6.0/HomeWork2.genruntimeconfig.cache
+/Users/elenazuravleva/Desktop/C#/HomeWork2/obj/Debug/net6.0/ref/HomeWork2.dll
